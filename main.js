@@ -11,5 +11,5 @@ function setup() {
 }
 function draw() {
     image(video, 0, 0, 600, 500);
-    canvas.position(570,280);
+    canvas.position(600,280);
 }
