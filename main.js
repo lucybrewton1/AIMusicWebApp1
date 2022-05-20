@@ -43,7 +43,7 @@ function draw() {
         song2.stop();
         if(song1Status==false) {
             song.play();
-            document.getElementById("song-name").innerHTML="Song Name: PeterPan Song";
+            document.getElementById("song-name").innerHTML="Song Name: Harry Potter Song";
             console.log("song1 is playing");
         }
     }
